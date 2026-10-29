@@ -3,6 +3,9 @@
 ReWatch is a movie and TV drama recommendation website that helps
 users discover stories similar to the titles they already enjoy.
 
+🌐 Live Website
+Explore StockSetu: [Visit the Live Website]
+(https://rewatch.streamlit.app/)
 ## Features
 
 - Search movies and TV shows.
