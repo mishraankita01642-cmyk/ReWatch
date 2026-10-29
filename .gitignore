@@ -1,0 +1,19 @@
+# API keys
+.env
+.streamlit/secrets.toml
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Temporary test files
+test_gemini.py
+
+# Operating system files
+.DS_Store
+Thumbs.db
