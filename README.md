@@ -3,7 +3,7 @@
 ReWatch is a movie and TV drama recommendation website that helps
 users discover stories similar to the titles they already enjoy.
 
-# Live Website
+# 🌐 Live Website
 
 Explore ReWatch: [Visit the Live Website]
 
